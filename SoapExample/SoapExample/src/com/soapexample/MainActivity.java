@@ -16,7 +16,7 @@ import android.widget.Toast;
 public class MainActivity extends Activity {
 
 	public final static String NAMESPACE = "http://tempuri.org/";
-	public final static String URL = "http://101.freshclub.in/WebService/RequestAgenLogin.php";
+	public final static String URL = "http://localhost/WebService/RequestAgenLogin.php";
 	public final static String SOAP_ACTION = "http://tempuri.org/#SimpleWebServiceTest";
 	public final static String METHOD_NAME = "SimpleWebServiceTest";
 

@@ -47,7 +47,7 @@ public class MainActivity extends Activity {
 			// 2. for simple response soapObject
 			
 			// use 1 or 2 as per requirement.
-			
+			/*
 			Pattern EMAIL_ADDRESS_PATTERN =
 		            Pattern.compile("[a-zA-Z0-9\\+\\.\\_\\%\\-\\+]{1,256}" +
 		                            "\\@" +
@@ -62,7 +62,7 @@ public class MainActivity extends Activity {
 					
 		        }
 		        else
-		        	Log.d("Test", "your email is valid");
+		        	Log.d("Test", "your email is valid");*/
 
 		} catch (Exception e) {
 			e.printStackTrace();
